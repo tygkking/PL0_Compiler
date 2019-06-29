@@ -1,0 +1,15 @@
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\bin\Release\PL0_Compiler.exe.config
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\bin\Release\PL0_Compiler.exe
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\bin\Release\PL0_Compiler.pdb
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler.csprojResolveAssemblyReference.cache
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\MainWindow.g.cs
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\App.g.cs
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler_MarkupCompile.cache
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler_MarkupCompile.lref
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\MainWindow.baml
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler.g.resources
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler.Properties.Resources.resources
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler.csproj.GenerateResource.cache
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler.csproj.CoreCompileInputs.cache
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler.exe
+C:\作业\大三上\编译原理\实验\大作业\PL0_Compiler\PL0_Compiler\obj\Release\PL0_Compiler.pdb
